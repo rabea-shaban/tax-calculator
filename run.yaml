@@ -7,7 +7,7 @@ spec:
 
   params:
     - name: repo-url
-      value: https://github.com/USERNAME/tax-calculator
+      value: https://github.com/rabea-shaban/tax-calculator
 
   workspaces:
     - name: pipeline-workspace
